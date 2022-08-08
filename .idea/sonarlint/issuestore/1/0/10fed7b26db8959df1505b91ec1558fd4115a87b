@@ -1,0 +1,19 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ëºÚÔ
+V	java:S125"<This block of commented-out lines of code should be removed.(¿½ÙÂüÿÿÿÿ
+P	java:S125#"<This block of commented-out lines of code should be removed.(£à«T
+Q	java:S1251"<This block of commented-out lines of code should be removed.(¦­Â°
+V	java:S1259"<This block of commented-out lines of code should be removed.(çÖ¦ùÿÿÿÿ
+Q	java:S125H"<This block of commented-out lines of code should be removed.(±‘ÿ¬
+Q	java:S125L"<This block of commented-out lines of code should be removed.(ÀŠšÿ
+V	java:S125X"<This block of commented-out lines of code should be removed.(ù’Öıÿÿÿÿ
+V	java:S125v"<This block of commented-out lines of code should be removed.(øñøƒùÿÿÿÿ
+V	java:S125y"<This block of commented-out lines of code should be removed.(ïØşÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(Ìå¦Üùÿÿÿÿ
+Y	java:S125•"<This block of commented-out lines of code should be removed.(Êö‰ş8¦­ÄËœ0
+V	java:S106™"9Replace this use of System.out or System.err by a logger.(·ğ›8íçÁËœ0
+W	java:S125"<This block of commented-out lines of code should be removed.(İõè”üÿÿÿÿ
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8æúÃËœ0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8çúÃËœ0

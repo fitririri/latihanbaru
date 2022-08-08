@@ -1,0 +1,11 @@
+
+¦
+java:S1598"ŠThis file "Main.java" should be located in "main\Contoh" directory, not in "C:\Users\fpsar\IdeaProjects\BelajarJAVA\src\TugasJava\Contoh".(ãñŽéúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãñŽéúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ä¯ÐÒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£äùŽ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰ÎýÊþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓéÈ×ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈëÒØÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·È¯­
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚¥šÕ
